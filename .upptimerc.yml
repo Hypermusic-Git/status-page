@@ -14,7 +14,6 @@ status-website:
   logoUrl: https://media.discordapp.net/attachments/971495802507780116/972709695741624440/h-1.png
   name: Hypermusic | Status
   introTitle: "This is my uptime page for me. Powered by @upptime"
-  introMessage: 
   navbar:
     - title: Status
       href: /
